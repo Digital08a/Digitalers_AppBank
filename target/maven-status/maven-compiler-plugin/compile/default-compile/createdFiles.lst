@@ -1,0 +1,12 @@
+bancodigitalers\model\Persona.class
+bancodigitalers\model\CajaAhorro.class
+bancodigitalers\model\Valor.class
+bancodigitalers\model\CarteraValores.class
+bancodigitalers\model\CuentaBancaria.class
+bancodigitalers\model\FondoInversion.class
+bancodigitalers\model\Empleado.class
+bancodigitalers\model\Cliente.class
+bancodigitalers\model\TarjetaCredito.class
+bancodigitalers\model\Tarjeta.class
+com\mycompany\bancodigitalers\BancoDigitalers.class
+bancodigitalers\model\CuentaCorriente.class
